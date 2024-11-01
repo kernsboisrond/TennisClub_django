@@ -1,0 +1,13 @@
+// run this in the project
+py manage.py runserver
+
+
+structure => {env:myworld ; project:myworld ; app:members}
+
+//start a new project:
+django-admin startproject my_tennis_club 
+
+
+//start a new app in the project. structure => {env:myworld ; project:myworld ; app:members}
+py manage.py startapp members
+

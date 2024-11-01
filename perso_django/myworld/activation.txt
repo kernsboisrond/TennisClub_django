@@ -1,0 +1,2 @@
+run thisin perso_django
+myworld\Scripts\activate.bat
